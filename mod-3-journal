@@ -1,0 +1,5 @@
+Module 3 Journal
+
+	Chapter 7 gave a brief overview of remote repositories and GitHub (a codehosting platform), which are widely used by software development teams, as well as Open Source developers and personal projects. 
+	Chapter 8 covered the use of README.md files as a suitable documentation format for smaller projects, while larger projects may have wikis that serve as documentation and tutorials. Some developers use GitHub’s website hosting service, GitHub Pages, to market their software. 
+	Chapter 9 was a walkthrough on how to set up a remote repository on GitHub, and how to use the git remote add command. Convention is to name the remote “origin” and then paste the link that GitHub generates for the remote repository. Then you will use git push to push your modified files to the remote repository. 
