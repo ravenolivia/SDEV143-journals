@@ -1,0 +1,12 @@
+Module 4
+	*Chapter 10 - Issues*
+		Issues in GitHub keeps track of problems that need to be solved with the project. Team members can create issues, assign issues to other team members, and link commits to issues to show that they were resolved.
+		Team members can also communicate with each other using comments on issues, and label issues with the appropriate categories. 
+
+	*Chapter 11 - Branches*
+		Commits are not pushed to the main branch usually, but rather you will create a current working copy of the project called a Branch. Branches are created to work on an issue and refine the product, merged to the main branch product branch, then deleted afterwards. 
+		Projects will typically have the main branch which houses the release version of the product. The development branch is used to record/test changes. A patch branch holds the commits before merging with the development branch.
+
+Module 5
+	*Chapter 12 - Pull Requests*
+		Pull requests happen before a merge to another branch is finalized. PRs enable the opportunity for code review and debugging, as well as feedback on your changes, before they are implemented with the main project. 
