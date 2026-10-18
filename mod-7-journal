@@ -1,0 +1,12 @@
+Module 7 Journal
+	
+	Chapter 15 - Git GUI Tools
+		Now that we have a good handle on using Git bash, we moved on to using GUI tools. The standard git download comes with git-gui, which acts as a graphic committing interfact for Git. This acts as a user-friendly tool for making commits and reviewing changes. Edits are not made within this tool, but you can create and navigate between branches, view the diff, stage and commit files, etc.
+		gitk acts as a visual version of the git log command, and integrations with IDEs allow developers to manage their repositories without leaving the development environment!
+		GitHub's Desktop app modernizes and merges the gitk and git-gui tools into one user-friendly and robust app for managing your repos. I personally enjoy using GitHub Desktop and the integration with VS Code.
+
+	Chapter 16 - Advanced Git
+		This chapter showed us some powerful commands that we may need to use occasionally. Reverting discards any changes you've made to a file, so it is important to use good judgement when using it so you don't lose any work you wanted to keep.
+		Stashing allows us to make a temporary commit so our working directory is clean and we can therefore switch to a different task if needed. This is helpful when we aren't ready to create a true commit but we still need to switch focus.
+		Finally, resetting can be used if you really need to discard everything and start over. This should be used extremely carefully! It erases everything you did and the project reverts to a previous state.
+		Stashing was my favorite command we learned.
