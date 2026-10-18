@@ -1,0 +1,12 @@
+Module 6 Journal 
+	
+	Chapter 13 - Conflicts
+		The refresh of how merging and pulling works was helpful, as well as the clarifying how
+		"behind" can be a little confusing when referencing a repository. 
+		We learning the importance of pulling from the remote repository before starting work
+		on the project for that session. Since other team members may be working on the project, pulling from the remote repository first ensures you are working on the most up-to-date copy.
+		Merge conflicts usually occur when two different branches or maybe users have modified the same line, or if a branch deleted a file that was modified on another. You cannot merge when there is a conflict, so you must resolve the conflict first by editing the file so it only has one changeset. I struggled a little bit with understanding how merge conflicts work at first, but I practiced with making them and now I have a better understanding!
+
+	Chapter 14 - More About Conflicts
+		This chapter stressed the importance of reviewing changes before merging. You should first check the branch location. You have to check out the branch that is being merged into. Then it is always a good idea to review the branch diff to visualize the changes.
+		We also learned how to reduce conflicts by maintaining a proper workflow. Good habits reduce the chance of merge conflicts existing in the first place.
